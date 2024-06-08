@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.98; background: url('https://github.com/jojohnathon/jojohnathon/blob/main/fortnite.jpg');]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.38; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 1; pointer-events: none; background-size: cover; background-image: url('https://github.com/jojohnathon/jojohnathon/blob/main/fortnite.jpg'); opacity: 0.6;]{x0000}$}
 
