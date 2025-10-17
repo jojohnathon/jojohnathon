@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-welcome to my github society
+welcome to my github 
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWL77h8738sHFuDi52ASXo3B69_NzEyrftQ&s)
+<!-- ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWL77h8738sHFuDi52ASXo3B69_NzEyrftQ&s) -->
+
