@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **jojohnathon/jojohnathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 -->
 
 welcome to my github 
+
+homeserver:  
+[wankers.us](https://wankers.us)
+
+website:  
+[johnatho.nz](https://johnatho.nz)  
+
+contact:  
+johnathon[at]berkeley[dot]edu
+
+
 
 <!-- ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWL77h8738sHFuDi52ASXo3B69_NzEyrftQ&s) -->
 
