@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 welcome to my github 
 
 homeserver:  
-[wankers.us](https://wankers.us)
+(domain name is currently expired)
 
 website:  
 [johnatho.nz](https://johnatho.nz)  
