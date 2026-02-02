@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 welcome to my github 
 
 homeserver:  
-[lab.johnatho.nz](https://lab.johnatho.nz)
+[lab.johnatho.nz](https://uptime.lab.johnatho.nz/status/lol)
 
 website:  
 [johnatho.nz](https://johnatho.nz)  
